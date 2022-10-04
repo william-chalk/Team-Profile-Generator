@@ -1,0 +1,28 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william-chalk/Team-Profile-Generator.git"
+  },
+  "author": "William Chalk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/william-chalk/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/william-chalk/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
