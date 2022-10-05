@@ -38,6 +38,10 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 ## Walkthrough
 
+
+https://user-images.githubusercontent.com/108630160/193953466-537ae1f5-b135-4294-8cb7-baf2da34c07d.mp4
+
+
 ## Test
 
 ```
